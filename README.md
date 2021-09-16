@@ -19,4 +19,4 @@ The program in PYTHON 3 requires the following libraries:
 
 
 
-Usage: python3 C19Verifier.py <image path>
+Usage: python3 C19Verifier.py "<image path>"
