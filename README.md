@@ -16,3 +16,7 @@ The program in PYTHON 3 requires the following libraries:
   qrcode
   json
   datetime            (datetime)
+
+
+
+Usage: python3 C19Verifier.py <image path>
