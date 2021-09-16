@@ -18,8 +18,6 @@ The program in PYTHON 3 requires the following libraries:
   datetime            (datetime)
 
 
-
-Usage: 
-  python3 C19Verifier.py img.x
+  python3 C19Verifier.py "IMAGE PATH"
   
   Sono ammesse tutte le estensioni supportate da PIL
