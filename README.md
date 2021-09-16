@@ -23,7 +23,7 @@ Enter the path to the image as a parameter.
 All extensions supported by PIL are allowed.
 
 
-![Cattura2](https://user-images.githubusercontent.com/55066055/133646998-883b4911-4cd6-46cb-b84f-42bc2236d6c2.JPG)
+![Cattura2](https://user-images.githubusercontent.com/55066055/133647279-f98a1f05-6e1c-4e2a-b100-f9cc81ecd969.png)
 
 
 ![Cattura3](https://user-images.githubusercontent.com/55066055/133647012-a94a74cf-5ca9-4a67-ac1c-9eab34383afb.JPG)
