@@ -18,6 +18,6 @@ The program in PYTHON 3 requires the following libraries:
   datetime            (datetime)
 
 
-  python3 C19Verifier.py IMAGE-PATH
-  
-  Sono ammesse tutte le estensioni supportate da PIL
+Enter the path to the image as a parameter.
+
+All extensions supported by PIL are allowed.
