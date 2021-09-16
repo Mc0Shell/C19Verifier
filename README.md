@@ -9,13 +9,13 @@ The program in PYTHON 3 requires the following libraries:
   zlib,
   pprint,
   PIL.image,
-  PIL,                 (Image, UnidentifiedImageError)
+  PIL,
   pyzbar.pyzbar,
   base45,
   cbor2,
   qrcode,
   json,
-  datetime,            (datetime)
+  datetime
 
 
 Enter the path to the image as a parameter.
