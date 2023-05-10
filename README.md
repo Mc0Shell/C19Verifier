@@ -18,9 +18,9 @@ The program in PYTHON 3 requires the following libraries:
   datetime
 
 
-Enter the path to the image as a parameter.
+Enter the path to the image as a command parameter.
 
-All extensions supported by PIL are allowed.
+All extensions supported by Pillow are allowed.
 
 
 ![Cattura2](https://user-images.githubusercontent.com/55066055/133647279-f98a1f05-6e1c-4e2a-b100-f9cc81ecd969.png)
